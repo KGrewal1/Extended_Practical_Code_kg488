@@ -1,4 +1,9 @@
 /*
 !/.gitignore
-!/*.ipynb
-!/README.md!/*.ipynb
+!/E7
+/E7/*
+!/E7/E*.ipynb
+!/E6
+/E6/*
+!/E6/E*.ipynb
+!/README.md
